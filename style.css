@@ -11,7 +11,7 @@ html{
 }
 
 #homepage{
-    background: linear-gradient(rgba(0,0,0,.4), rgba(0,0,0,.4)), url(https://ibb.co/nByhhFc);
+    background: linear-gradient(rgba(0,0,0,.4), rgba(0,0,0,.4)), url(pictures/bkground.jpg);
     background-size: cover;
     background-position: center center;
     height: 100vh;
